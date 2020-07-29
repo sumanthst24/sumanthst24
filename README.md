@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Sumanth Nidamanuri</h1>
 <h3 align="center">An enthusiastic programmer passionate to learn new skills</h3>
 <h3 align="center">An Android Developer and an Open Source enthusiast</h3>
+![programming](https://user-images.githubusercontent.com/45101690/88816121-b13e9b00-d1d9-11ea-9679-13ffb74841ec.png)
+
 
 - 🔭 I’m currently working on [Online Exam Web portal](https://github.com/sujithsagar217/OnlineTestPlatform/)
 
