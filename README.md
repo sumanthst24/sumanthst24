@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/45101690/88816121-b13e9b00-d1d9-11ea-9679-13ffb74841ec.png" alt="programming" width="300" height="300"/>  
 
-- 🔭 I’m currently working on [Online Exam Web portal](https://github.com/sujithsagar217/OnlineTestPlatform/)
+- 🔭 I’m currently working on <b>Alexa Skill Development</b> 
 
 - 💬 Ask me about **Android development** , **Competitive Programming**
 
