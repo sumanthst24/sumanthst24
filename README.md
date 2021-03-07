@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Android development** , **Competitive Programming**
 
-src="https://github-readme-stats.vercel.app/api?username=sumanthst24&show_icons=true" alt="sumanthst24" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumanth-nidamanuri-st24" target="blank"><img align="center" src="https://user-images.githubusercontent.com/45101690/88830367-7b0a1700-d1eb-11ea-9ab1-5ab4699a1660.gif" alt="sumanth nidamanuri" height="20" width="20" /></a>
